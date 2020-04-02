@@ -1,4 +1,7 @@
 #!/bin/sh
+#
+# https://dev.to/rohansawant/installing-docker-and-docker-compose-on-the-raspberry-pi-in-5-simple-steps-3mgl
+#
 curl -sSL https://get.docker.com | sh
 sudo usermod -aG docker pi
 #docker run hello-world
