@@ -16,8 +16,11 @@ git submodule foreach git checkout master
 git submodule foreach git pull --rebase origin master
 
 
-sudo apt-get install libjpeg-dev
-
+sudo apt-get install -y libjpeg-dev libopenexr-dev libopenjpeg-dev libtiff-dev libopenal-dev libsdl2-dev libsdl-dev 
+sudo apt-get install -y libsndfile1-dev libfftw3-dev  libssl-dev libboost-all-dev libpython-dev libtbb-dev
+sudo apt-get install -y libopenexr-dev libsdl1.2-dev libopenjp2-7-dev opencollada-dev libjemalloc-dev libopenvdb-dev 
+sudo apt-get install -y libblosc-dev libspnav0 alembic python-alembic python3-alembic libopenimageio-dev
 sudo apt-get install cmake -y
+
 make
 
