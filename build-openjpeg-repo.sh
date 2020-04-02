@@ -12,5 +12,5 @@ cd build
 cmake .. -DCMAKE_BUILD_TYPE=Release
 make
 
-make install
+sudo make install
 make clean
