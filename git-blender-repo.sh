@@ -1,5 +1,9 @@
 #!/bin/sh
 
+#
+# https://developer.blender.org/diffusion/B/
+#
+
 # read-only access
 git clone git://git.blender.org/blender.git
 
