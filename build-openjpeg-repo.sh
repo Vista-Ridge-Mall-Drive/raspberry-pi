@@ -1,4 +1,6 @@
+#!/bin/sh
 
+# https://github.com/uclouvain/openjpeg/blob/master/INSTALL.md
 
 git clone https://github.com/uclouvain/openjpeg.git
 
