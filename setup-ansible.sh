@@ -4,4 +4,4 @@ cd ~
 
 sudo apt-get install -y ansible
 
-ssh-keygen -A
+ssh-keygen 
