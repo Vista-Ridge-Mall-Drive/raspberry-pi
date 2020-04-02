@@ -2,6 +2,7 @@
 
 #
 # https://developer.blender.org/diffusion/B/
+# https://wiki.blender.org/wiki/Building_Blender
 #
 
 # read-only access
